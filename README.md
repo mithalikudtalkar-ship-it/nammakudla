@@ -1,4 +1,5 @@
-Namma Kudla is a handcrafted travel platform that celebrates the beauty, heritage, and spirit of Mangalore (locally known as Kudla). It blends elegant design with rich cultural storytelling, offering guides, blogs, and interactive features for travelers and locals alike.
+Namma Kudla is a handcrafted travel platform created to celebrate the culture, heritage, and everyday life of Mangalore — widely known as Kudla. The platform is built with a strong focus on design, storytelling, and authenticity, bringing together everything that makes the city special. From scenic destinations to local experiences, Namma Kudla serves as a complete guide for both visitors and residents who want to explore the true essence of the region.
+It highlights Kudla’s beaches, temples, food, traditions, and lesser-known locations through well-curated content, while also giving space for personal stories and community interaction. Every page and feature is designed with care to make the experience engaging, informative, and easy to navigate.
 ✨ Features
 - Home & Blog Pages — Explore curated travel stories, local insights, and destination highlights.
 - Destinations & Guides — Discover must-see places, hidden gems, and expert recommendations.
@@ -11,5 +12,6 @@ Namma Kudla is a handcrafted travel platform that celebrates the beauty, heritag
   - HTML5, CSS3 (custom handcrafted styles)
 - JavaScript (vanilla)
 - Responsive design principles
+
 
 
