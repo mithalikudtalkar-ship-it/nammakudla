@@ -12,3 +12,4 @@ Namma Kudla is a handcrafted travel platform that celebrates the beauty, heritag
 - JavaScript (vanilla)
 - Responsive design principles
 
+
